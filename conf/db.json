@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "port": 3306,
+    "db-name": "ec_site_dev",
+    "charset": "utf8",
+    "user": "root",
+    "pass": "@Takara0527",
+    "log_file": "webapp.log"
+}
